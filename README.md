@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" src="https://cdn.anisp.xyz/UjMCEuFGWVFT.gif"  />
+<img align="right" height=200 src="https://cdn.anisp.xyz/UjMCEuFGWVFT.gif"  />
 
 ###
 
